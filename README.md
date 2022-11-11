@@ -5,6 +5,13 @@ Everyday: at least 1 Hour
 
 Personal project: "to be defined" will be Developed with Rust . 
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 # Ressources:
 
