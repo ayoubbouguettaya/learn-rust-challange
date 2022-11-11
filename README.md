@@ -1,6 +1,6 @@
 ### Rust Programming : My Learning Curve.
 
-** Motivation Summary  ** : I come across so many posts on LinkedIn of developers hyping this programming language saying that it will replace the legacy code written in  C/ C++ language for big company Products due to several advantages and problems that Rust solves.
+**Motivation Summary** : I come across so many posts on LinkedIn of developers hyping this programming language saying that it will replace the legacy code written in  C/ C++ language for big company Products due to several advantages and problems that Rust solves. which triggered my curiosity to learn about the technology. after reading some blog posts by the community I would say that the way the memory is managed in Rust with efficiency and without the need for a garbage collector interested me thus I decided to give it a shot and try to hook up into the core concept and after that build something with it. I still don't know what it is but I'm quite exiting to get to this point.  
 
 
 ```diff
