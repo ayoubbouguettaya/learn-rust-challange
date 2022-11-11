@@ -1,7 +1,18 @@
-# learn-rust-challange
-this is my own motivationel project where i record my progress for learning rust
+# Rust Programming : My Learning Curve.
+in this repos i'm recording my learning process of Rust programming  basics and core concepts .
+Duration: 12 weeks
+Everyday: at least 1 Hour
+
+Personal project: "to be defined" will be Developed with Rust . 
+
 
 # Ressources:
+
+## Let's get rust
+
+youtube tutoriel By Bogdan Pshonyak
+https://www.youtube.com/c/letsgetrusty
+
 ## The Rustonomicon
 https://doc.rust-lang.org/stable/nomicon/
 
